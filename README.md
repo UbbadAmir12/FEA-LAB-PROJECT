@@ -145,6 +145,7 @@ Maximum transient stress reached 1160.8 Pa, significantly higher than the static
 
 Stress stabilizes over time, indicating dynamic equilibrium is achieved.
 
+
 **Overall Interpretation:**
 
 Static analysis represents a final, steady-state condition.
